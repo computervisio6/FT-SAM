@@ -1,4 +1,4 @@
-# Enhancing Fine-Tuning based Backdoor Defense with Sharpness-Aware Minimization
+# Anonymous
 
 PyTorch implementation of Enhancing Fine-Tuning based Backdoor Defense with Sharpness-Aware Minimization
 
